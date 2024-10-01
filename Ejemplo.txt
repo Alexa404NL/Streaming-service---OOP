@@ -1,0 +1,321 @@
+Tipo idVideo El_titulo El_genero duración calificación TituloSerie episodio temporada
+e 1 ...And_the_Bag's_in_the_River Drama 48 4.7 Breaking_Bad 3 1
+e 2 4_Days_Out Drama 47 4.9 Breaking_Bad 9 2
+e 3 A.A.R.M. Comedia 22 8.6 The_Office 22 9
+e 4 A_Benihana_Christmas Comedia 22 9 The_Office 10 3
+e 5 A_No-Rough-Stuff-Type_Deal Drama 48 4.8 Breaking_Bad 7 1
+e 6 Abiquiu Drama 47 4.8 Breaking_Bad 11 3
+e 7 ABQ Drama 47 4.9 Breaking_Bad 13 2
+e 8 After_Hours Comedia 22 7.8 The_Office 16 8
+e 9 Andy's_Ancestry Comedia 22 7.7 The_Office 3 9
+e 10 Andy's_Play Comedia 22 8.2 The_Office 3 7
+e 11 Angry_Andy Comedia 22 7.8 The_Office 21 8
+p 12 Avengers:_Endgame Acción 181 5   
+e 13 Baby_Shower Comedia 22 8.6 The_Office 3 5
+e 14 Back_From_Vacation Comedia 22 8.6 The_Office 11 3
+e 15 Basketball Comedia 22 8.4 The_Office 5 1
+e 16 Beach_Games Comedia 22 9 The_Office 22 3
+e 17 Ben_Franklin Comedia 22 8.7 The_Office 14 3
+e 18 Better_Call_Saul Drama 47 4.9 Breaking_Bad 8 2
+e 19 Bit_by_a_Dead_Bee Drama 48 4.8 Breaking_Bad 3 2
+e 20 Blood_Drive Comedia 22 8.2 The_Office 18 5
+e 21 Blood_Money Drama 48 4.9 Breaking_Bad 9 5
+e 22 Body_Language Comedia 22 8.7 The_Office 23 6
+e 23 Booze_Cruise Comedia 22 8.8 The_Office 11 2
+e 24 Box_Cutter Drama 47 4.9 Breaking_Bad 1 4
+e 25 Boys_and_Girls Comedia 22 8.4 The_Office 15 2
+e 26 Branch_Closing Comedia 22 8.8 The_Office 7 3
+e 27 Branch_Wars Comedia 22 8.6 The_Office 6 4
+e 28 Breakage Drama 47 4.8 Breaking_Bad 5 2
+e 29 Broke Comedia 22 9.1 The_Office 25 5
+e 30 Bug Drama 47 4.8 Breaking_Bad 9 4
+e 31 Bullet_Points Drama 47 4.8 Breaking_Bad 4 4
+e 32 Buried Drama 48 4.9 Breaking_Bad 10 5
+e 33 Business_Ethics Comedia 22 8.6 The_Office 2 5
+e 34 Business_School Comedia 22 8.6 The_Office 16 3
+e 35 Business_Trip Comedia 22 8.7 The_Office 8 5
+e 36 Buyout Drama 47 4.8 Breaking_Bad 6 5
+e 37 Caballo_Sin_Nombre Drama 47 4.8 Breaking_Bad 2 3
+e 38 Cafe_Disco Comedia 22 8.7 The_Office 27 5
+e 39 Cancer_Man Drama 48 4.7 Breaking_Bad 4 1
+p 40 Casablanca Romance 102 5   
+e 41 Casino_Night Comedia 22 8.8 The_Office 22 2
+e 42 Casual_Friday Comedia 22 8.7 The_Office 26 5
+e 43 Cat's_in_the_Bag... Drama 48 4.8 Breaking_Bad 2 1
+e 44 Chair_Model Comedia 22 8.5 The_Office 14 4
+e 45 China Comedia 22 8.1 The_Office 10 7
+e 46 Christening Comedia 22 8.3 The_Office 7 7
+e 47 Christmas_Party Comedia 22 8.9 The_Office 10 2
+e 48 Christmas_Wishes Comedia 22 8.4 The_Office 10 8
+p 49 Ciudad_de_Dios Drama 130 5   
+e 50 Classy_Christmas:_Part_1 Comedia 22 9.1 The_Office 11 7
+e 51 Classy_Christmas:_Part_2 Comedia 22 9.1 The_Office 12 7
+e 52 Cocktails Comedia 22 8.8 The_Office 18 3
+e 53 Company_Picnic Comedia 22 9 The_Office 28 5
+e 54 Confessions Drama 48 4.9 Breaking_Bad 11 5
+e 55 Conflict_Resolution Comedia 22 8.6 The_Office 21 2
+e 56 Cornered Drama 47 4.8 Breaking_Bad 6 4
+e 57 Costume_Contest Comedia 22 8.5 The_Office 6 7
+e 58 Counseling Comedia 22 8.5 The_Office 2 7
+e 59 Couples_Discount Comedia 22 7.6 The_Office 15 9
+e 60 Crawl_Space Drama 47 4.9 Breaking_Bad 11 4
+e 61 Crazy_Handful_of_Nothin' Drama 48 4.9 Breaking_Bad 6 1
+e 62 Crime_Aid Comedia 22 8.7 The_Office 5 5
+e 63 Customer_Loyalty Comedia 22 7.6 The_Office 12 9
+e 64 Customer_Survey Comedia 22 8.4 The_Office 7 5
+e 65 Dead_Freight Drama 48 4.9 Breaking_Bad 5 5
+e 66 Did_I_Stutter? Comedia 22 8.8 The_Office 16 4
+e 67 Dinner_Party Comedia 22 9.3 The_Office 13 4
+e 68 Diversity_Day Comedia 22 8.3 The_Office 2 1
+e 69 Diwali Comedia 22 8.7 The_Office 6 3
+e 70 Doomsday Comedia 22 7.9 The_Office 6 8
+e 71 Double_Date Comedia 22 8.7 The_Office 9 6
+e 72 Down Drama 47 4.8 Breaking_Bad 4 2
+e 73 Dream_Team Comedia 22 8.4 The_Office 22 5
+e 74 Drug_Testing Comedia 22 8.5 The_Office 20 2
+e 75 Dunder_Mifflin_Infinity Comedia 22 8.8 The_Office 2 4
+e 76 Dwight_Christmas Comedia 22 7.9 The_Office 9 9
+e 77 Dwight_K._Schrute_(Acting)_Manager Comedia 22 8.5 The_Office 24 7
+e 78 Dwight's_Speech Comedia 22 8.4 The_Office 17 2
+p 79 El_ángel_exterminador Drama 95 5   
+p 80 El_apartamento Comedia 125 5   
+p 81 El_árbol_de_la_vida Drama 139 4   
+p 82 El_ataque_de_los_clones Ciencia_ficción 142 4   
+p 83 El_ataúd_de_cristal Suspenso 92 4   
+p 84 El_aviador Drama 170 4   
+p 85 El_bueno_el_malo_y_el_feo Western 179 5   
+p 86 El_bueno_el_malo_y_el_raro Acción 130 4   
+p 87 El_caballero_de_la_noche Acción 152 5   
+p 88 El_Caballero_Oscuro Acción 152 5   
+p 89 El_caballero_oscuro:_La_leyenda_renace Acción 165 5   
+p 90 El_camino_de_regreso Drama 101 4   
+p 91 El_castillo_ambulante Fantasía 119 5   
+p 92 El_cisne_negro Drama 108 5   
+p 93 El_ciudadano_Kane Drama 119 5   
+p 94 El_club_de_la_pelea Drama 139 5   
+p 95 El_club_de_los_cinco Drama 97 5   
+p 96 El_club_de_los_poetas_muertos Drama 128 5   
+p 97 El_color_púrpura Drama 154 4   
+p 98 El_crack Drama 122 5   
+p 99 El_crepúsculo_de_los_dioses Drama 110 4   
+p 100 El_curioso_caso_de_Benjamin_Button Drama 166 4   
+p 101 El_destino_de_Júpiter Ciencia_ficción 128 4   
+p 102 El_discurso_del_rey Drama 118 4   
+p 103 El_exorcismo_de_Emily_Rose Terror 122 4   
+p 104 El_exorcista Terror 122 4   
+p 105 El_Gran_Hotel_Budapest Comedia 99 4   
+p 106 El_gran_hotel_Budapest Comedia 99 5   
+p 107 El_gran_Lebowski Comedia 117 5   
+p 108 El_gran_pez Fantasía 125 5   
+p 109 El_halcón_maltés Cine_negro 101 4   
+p 110 El_hilo_invisible Drama 130 4   
+p 111 El_indomable_Will_Hunting Drama 126 5   
+p 112 El_jardín_de_las_palabras Animación 46 4   
+p 113 El_joven_manos_de_tijera Fantasía 105 4   
+p 114 El_Laberinto_del_Fauno Fantasía 118 5   
+p 115 El_lado_bueno_de_las_cosas Drama 122 5   
+p 116 El_ladrón_de_bicicletas Drama 93 5   
+p 117 El_lobo_de_Wall_Street Drama 180 5   
+p 118 El_niño_con_el_pijama_de_rayas Drama 94 5   
+p 119 El_origen_del_planeta_de_los_simios Ciencia_ficción 105 4   
+p 120 El_Padrino Drama 175 5   
+p 121 El_perfume Drama 147 4   
+p 122 El_Pianista Drama 150 5   
+p 123 El_quinto_elemento Ciencia_ficción 126 4   
+p 124 El_Renacido Aventura 156 4   
+p 125 El_Renacido Aventura 156 5   
+p 126 El_Resplandor Terror 144 4   
+p 127 El_Rey_Arturo Aventura 126 4   
+p 128 El_Rey_León Animación 88 4   
+p 129 El_secreto_de_sus_ojos Drama 129 5   
+p 130 El_Señor_de_los_Anillos:Atrás Fantasía 201 5   
+p 131 El_sexto_sentido Suspenso 107 4   
+p 132 El_show_de_Truman Drama 103 4   
+p 133 El_silencio_de_los_corderos Suspenso 118 4   
+p 134 El_último_emperador Drama 163 4   
+p 135 El_viaje_de_Chihiro Animación 125 5   
+e 136 E-Mail_Surveillance Comedia 22 8.7 The_Office 9 2
+e 137 Employee_Transfer Comedia 22 8.8 The_Office 6 5
+e 138 End_Times Drama 47 4.9 Breaking_Bad 12 4
+e 139 Face_Off Drama 47 4.9 Breaking_Bad 13 4
+e 140 Felina Drama 55 5 Breaking_Bad 16 5
+e 141 Fifty-One Drama 47 4.9 Breaking_Bad 4 5
+e 142 Finale Comedia 52 9.8 The_Office 23 9
+e 143 Fly Drama 47 4.9 Breaking_Bad 10 3
+p 144 Forrest_Gump Drama 142 5   
+e 145 Frame_Toby Comedia 22 8.8 The_Office 9 5
+e 146 Free_Family_Portrait_Studio Comedia 22 7.7 The_Office 24 8
+e 147 Full_Measure Drama 47 4.9 Breaking_Bad 13 3
+e 148 Fun_Run Comedia 22 8.9 The_Office 1 4
+e 149 Fundraiser Comedia 22 7.7 The_Office 22 8
+e 150 Garage_Sale Comedia 22 8.8 The_Office 19 7
+e 151 Garden_Party Comedia 22 7.9 The_Office 4 8
+e 152 Gay_Witch_Hunt Comedia 22 8.8 The_Office 1 3
+e 153 Get_the_Girl Comedia 22 8.2 The_Office 19 8
+e 154 Gettysburg Comedia 22 7.9 The_Office 8 8
+p 155 Gladiador Acción 155 4   
+e 156 Gliding_Over_All Drama 48 4.9 Breaking_Bad 8 5
+e 157 Golden_Ticket Comedia 22 8.4 The_Office 19 5
+e 158 Goodbye_Michael Comedia 22 9.8 The_Office 22 7
+e 159 Goodbye_Toby Comedia 22 9.4 The_Office 18 4
+e 160 Granite_State Drama 55 4.9 Breaking_Bad 15 5
+e 161 Gray_Matter Drama 48 4.8 Breaking_Bad 5 1
+e 162 Green_Light Drama 47 4.8 Breaking_Bad 4 3
+e 163 Grief_Counseling Comedia 22 8.7 The_Office 4 3
+e 164 Grilled Drama 48 4.9 Breaking_Bad 2 2
+e 165 Half_Measures Drama 47 4.9 Breaking_Bad 12 3
+e 166 Halloween Comedia 22 8.5 The_Office 5 2
+e 167 Happy_Hour Comedia 22 8.5 The_Office 21 6
+p 168 Harry_Potter_y_la_piedra_filosofal Fantasía 152 4   
+e 169 Hazard_Pay Drama 47 4.8 Breaking_Bad 3 5
+e 170 Health_Care Comedia 22 8.2 The_Office 3 1
+e 171 Heavy_Competition Comedia 22 8.6 The_Office 24 5
+e 172 Here_Comes_Treble Comedia 22 7.6 The_Office 5 9
+e 173 Hermanos Drama 47 4.9 Breaking_Bad 8 4
+e 174 Hot_Girl Comedia 22 7.8 The_Office 6 1
+e 175 I.F.T. Drama 47 4.8 Breaking_Bad 3 3
+e 176 I_See_You Drama 47 4.9 Breaking_Bad 8 3
+p 177 Inception Ciencia_ficción 148 5   
+e 178 Initiation Comedia 22 8.6 The_Office 5 3
+p 179 Interestelar Ciencia_ficción 169 5   
+p 180 Interstellar Ciencia_ficción 169 5   
+e 181 Job_Fair Comedia 22 8.4 The_Office 17 4
+e 182 Junior_Salesman Comedia 22 7.7 The_Office 13 9
+e 183 Jury_Duty Comedia 22 7.9 The_Office 13 8
+e 184 Kafkaesque Drama 47 4.8 Breaking_Bad 9 3
+e 185 Koi_Pond Comedia 22 8.7 The_Office 8 6
+p 186 La_La_Land Musical 128 4   
+p 187 La_Lista_de_Schindler Drama 195 5   
+p 188 La_naranja_mecánica Drama 137 4   
+p 189 La_vida_es_bella Drama 116 5   
+e 190 Last_Day_in_Florida Comedia 22 7.9 The_Office 18 8
+e 191 Launch_Party Comedia 22 8.9 The_Office 3 4
+e 192 Lecture_Circuit:_Part_1 Comedia 22 8.7 The_Office 16 5
+e 193 Lecture_Circuit:_Part_2 Comedia 22 8.7 The_Office 17 5
+e 194 Lice Comedia 22 7.7 The_Office 10 9
+e 195 Live_Free_or_Die Drama 43 4.9 Breaking_Bad 1 5
+e 196 Livin'_the_Dream Comedia 22 7.9 The_Office 21 9
+e 197 Local_Ad Comedia 22 8.7 The_Office 5 4
+e 198 Lotto Comedia 22 7.9 The_Office 3 8
+e 199 Madrigal Drama 47 4.8 Breaking_Bad 2 5
+e 200 Mafia Comedia 22 8.7 The_Office 6 6
+e 201 Manager_and_Salesman Comedia 22 8.5 The_Office 16 6
+e 202 Mandala Drama 47 4.9 Breaking_Bad 11 2
+e 203 Más Drama 47 4.9 Breaking_Bad 5 3
+p 204 Matrix Ciencia_ficción 136 4   
+e 205 Michael's_Birthday Comedia 22 8.4 The_Office 19 2
+e 206 Michael's_Last_Dundies Comedia 22 8.9 The_Office 21 7
+e 207 Money Comedia 22 8.8 The_Office 4 4
+e 208 Moving_On Comedia 22 7.6 The_Office 16 9
+e 209 Mrs._California Comedia 22 7.7 The_Office 9 8
+e 210 Murder Comedia 22 8.8 The_Office 10 6
+e 211 Negro_y_Azul Drama 47 4.8 Breaking_Bad 7 2
+e 212 Nepotism Comedia 22 8.3 The_Office 1 7
+e 213 New_Boss Comedia 22 8.4 The_Office 20 5
+e 214 New_Guys Comedia 22 7.8 The_Office 1 9
+e 215 New_Leads Comedia 22 8.4 The_Office 20 6
+e 216 Niagara:_Part_1 Comedia 22 9.2 The_Office 4 6
+e 217 Niagara:_Part_2 Comedia 22 9.2 The_Office 5 6
+e 218 Night_Out Comedia 22 8.5 The_Office 15 4
+e 219 No_Mas Drama 47 4.8 Breaking_Bad 1 3
+e 220 Office_Olympics Comedia 22 8.8 The_Office 3 2
+e 221 One_Minute Drama 47 4.9 Breaking_Bad 7 3
+e 222 Open_House Drama 47 4.8 Breaking_Bad 3 4
+p 223 Origen Ciencia_ficción 148 5   
+e 224 Over Drama 47 4.8 Breaking_Bad 10 2
+e 225 Ozymandias Drama 48 5 Breaking_Bad 14 5
+e 226 Pam's_Replacement Comedia 22 7.7 The_Office 7 8
+e 227 Paper_Airplane Comedia 22 7.7 The_Office 20 9
+e 228 PDA Comedia 22 8.2 The_Office 16 7
+e 229 Peekaboo Drama 47 4.9 Breaking_Bad 6 2
+e 230 Performance_Review Comedia 22 8.5 The_Office 8 2
+e 231 Phoenix Drama 47 4.9 Breaking_Bad 12 2
+e 232 Phyllis'_Wedding Comedia 22 8.7 The_Office 15 3
+e 233 Pilot Comedia 23 7.6 The_Office 1 1
+e 234 Pilot Drama 58 4.7 Breaking_Bad 1 1
+e 235 Pool_Party Comedia 22 7.9 The_Office 12 8
+e 236 Problem_Dog Drama 47 4.9 Breaking_Bad 7 4
+e 237 Product_Recall Comedia 22 8.7 The_Office 20 3
+e 238 Promos Comedia 22 7.7 The_Office 18 9
+p 239 Pulp_Fiction Drama 154 5   
+e 240 Rabid_Dog Drama 48 4.8 Breaking_Bad 12 5
+e 241 Roy's_Wedding Comedia 22 7.7 The_Office 2 9
+e 242 Sabre Comedia 22 8.5 The_Office 15 6
+e 243 Safety_Training Comedia 22 8.6 The_Office 20 3
+e 244 Salud Drama 47 4.9 Breaking_Bad 10 4
+e 245 Say_My_Name Drama 48 4.9 Breaking_Bad 7 5
+e 246 Scott's_Tots Comedia 22 8.3 The_Office 12 6
+e 247 Search_Committee:_Part_1 Comedia 22 8.4 The_Office 25 7
+e 248 Search_Committee:_Part_2 Comedia 22 8.4 The_Office 26 7
+e 249 Secret_Santa Comedia 22 8.8 The_Office 13 6
+e 250 Secretary's_Day Comedia 22 8.6 The_Office 22 6
+e 251 Seven_Thirty-Seven Drama 47 4.8 Breaking_Bad 1 2
+e 252 Sex_Ed Comedia 22 8.2 The_Office 4 7
+e 253 Sexual_Harassment Comedia 22 8.6 The_Office 2 2
+e 254 Shareholder_Meeting Comedia 22 8.6 The_Office 11 6
+e 255 Shotgun Drama 47 4.8 Breaking_Bad 5 4
+e 256 Special_Project Comedia 22 7.8 The_Office 14 8
+e 257 Spooked Comedia 22 7.8 The_Office 5 8
+e 258 St._Patrick's_Day Comedia 22 8.5 The_Office 19 6
+e 259 Stairmageddon Comedia 22 7.3 The_Office 19 9
+e 260 Suit_Warehouse Comedia 22 7.6 The_Office 11 9
+e 261 Sunset Drama 47 4.8 Breaking_Bad 6 3
+e 262 Survivor_Man Comedia 22 8.7 The_Office 7 4
+e 263 Take_Your_Daughter_to_Work_Day Comedia 22 8.6 The_Office 18 2
+e 264 Tallahassee Comedia 22 7.8 The_Office 15 8
+e 265 Test_the_Store Comedia 22 7.6 The_Office 17 8
+e 266 The_Alliance Comedia 22 8.1 The_Office 4 1
+e 267 The_Banker Comedia 22 8.1 The_Office 14 6
+e 268 The_Boat Comedia 22 7.7 The_Office 6 9
+e 269 The_Carpet Comedia 22 8.6 The_Office 14 2
+e 270 The_Chump Comedia 22 8.5 The_Office 25 6
+e 271 The_Client Comedia 22 9.2 The_Office 7 2
+e 272 The_Convention Comedia 22 8.7 The_Office 2 3
+e 273 The_Convict Comedia 22 8.7 The_Office 9 3
+e 274 The_Coup Comedia 22 8.5 The_Office 3 3
+e 275 The_Cover-Up Comedia 22 8.8 The_Office 24 6
+e 276 The_Delivery:_Part_1 Comedia 22 8.8 The_Office 17 6
+e 277 The_Delivery:_Part_2 Comedia 22 8.8 The_Office 18 6
+e 278 The_Deposition Comedia 22 8.7 The_Office 8 4
+e 279 The_Dundies Comedia 22 8.8 The_Office 1 2
+e 280 The_Farm Comedia 22 7.2 The_Office 17 9
+e 281 The_Fight Comedia 22 8.6 The_Office 6 2
+e 282 The_Fire Comedia 22 8.5 The_Office 4 2
+e 283 The_Incentive Comedia 22 8 The_Office 2 8
+e 284 The_Injury Comedia 22 9 The_Office 12 2
+e 285 The_Inner_Circle Comedia 22 8.3 The_Office 23 7
+e 286 The_Job Comedia 22 9 The_Office 23 3
+e 287 The_List Comedia 22 8.1 The_Office 1 8
+e 288 The_Lover Comedia 22 8.6 The_Office 7 6
+e 289 The_Merger Comedia 22 8.9 The_Office 8 3
+e 290 The_Michael_Scott_Paper_Company Comedia 22 9.1 The_Office 23 5
+e 291 The_Negotiation Comedia 22 9 The_Office 19 3
+e 292 The_Return Comedia 22 8.8 The_Office 13 3
+e 293 The_Search Comedia 22 8.5 The_Office 15 7
+e 294 The_Secret Comedia 22 9.1 The_Office 13 2
+e 295 The_Seminar Comedia 22 8.3 The_Office 14 7
+e 296 The_Sting Comedia 22 8.5 The_Office 5 7
+e 297 The_Surplus Comedia 22 8.4 The_Office 10 5
+e 298 The_Target Comedia 22 7.6 The_Office 8 9
+e 299 The_Whale Comedia 22 7.5 The_Office 7 9
+e 300 Thirty-Eight_Snub Drama 47 4.8 Breaking_Bad 2 4
+e 301 Threat_Level_Midnight Comedia 22 9.6 The_Office 17 7
+p 302 Titanic Romance 194 4   
+e 303 Todd_Packer Comedia 22 8.2 The_Office 18 7
+e 304 To'hajiilee Drama 48 4.9 Breaking_Bad 13 5
+p 305 Toy_Story Animación 81 5   
+e 306 Training_Day Comedia 22 8.3 The_Office 20 7
+e 307 Traveling_Salesmen Comedia 22 8.6 The_Office 12 3
+e 308 Trivia Comedia 22 8.2 The_Office 11 8
+e 309 Turf_War Comedia 22 7.7 The_Office 23 8
+e 310 Two_Weeks Comedia 22 8.5 The_Office 21 5
+e 311 Ultimatum Comedia 22 8.2 The_Office 13 7
+e 312 Valentine's_Day Comedia 22 8.6 The_Office 16 2
+e 313 Vandalism Comedia 22 7.6 The_Office 14 9
+e 314 Viewing_Party Comedia 22 8.2 The_Office 8 7
+e 315 Weight_Loss Comedia 22 9.2 The_Office 1 5
+e 316 Welcome_Party Comedia 22 7.6 The_Office 20 8
+e 317 Whistleblower Comedia 22 8.9 The_Office 26 6
+e 318 Women's_Appreciation Comedia 22 8.7 The_Office 21 3
+e 319 Work_Bus Comedia 22 7.6 The_Office 4 9
+e 320 WUPHF.com Comedia 22 8.2 The_Office 9 7
